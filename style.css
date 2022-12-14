@@ -43,7 +43,6 @@ font-size: 14px;
 }
 
 
-
 input,
 button,
 textarea {
@@ -329,7 +328,7 @@ margin: 32px 0 0 40px;
 .buttonInput {
 margin: -45px 0 0 646px;
 max-width: 228px;
-height: 59px; 
+height: 59px;
 color: #FFFFFF;
 }
 
@@ -337,10 +336,9 @@ color: #FFFFFF;
     .buttonInput{
         margin: -27px 0 0 260px;
         max-width: 92px;
-        height: 30px; 
+        height: 30px;
     }
 }
-
 
 .all {
 margin: 339px 0 0 0;
@@ -355,8 +353,6 @@ height: 523px;
     height: 234px;
     }
 }
-
-
 
 .text-step, .block3Travel {
 color: #F2785C;
@@ -379,19 +375,17 @@ color: #F2785C;
     }
 }
 
-
 .stepsContainer {
     display: inline;
     margin: 0 164px 0 200px;
     }
-    
+
     @media (max-width:390px){
         .stepsContainer{
             margin: 0 58px 0 14px;
         }
     }
-    
-    
+
 .stepsContainer3 {
 display: inline;
 margin: 0 0 0 163px;
@@ -409,7 +403,7 @@ margin: 25% 25%;
 
 @media (max-width:790px){
     .stepImage, .stepImage2, .stepImage3 {
-    margin: 25% 25%;  
+    margin: 25% 25%;
     width: 35px;
     height: 35px;
 }
@@ -426,9 +420,8 @@ border-radius: 16px;
     .stepOne {
         width: 70px;
         height: 70px;
-    }    
+    }
 }
-
 
 .textLine {
 font-family: 'Aleo';
@@ -445,18 +438,15 @@ margin: 36px 0 0 130px;
         width: 360px;
         height: 25px;
         font-size: 10px;
-        margin: 20px 0 0 0 ; 
-        
-    }    
+        margin: 20px 0 0 0 ;
+    }
 }
 
 
-
 .text1, .text2, .text3{
-display: inline; 
+display: inline;
 
-} 
-
+}
 
 
 .text1 {
@@ -468,9 +458,7 @@ margin: 0 225px 0 0;
     .text1 {
 
     margin: 15px;
-      
-    
-    }    
+    }
 }
 .text2 {
 margin: 0 155px 0 0;
@@ -480,10 +468,8 @@ margin: 0 155px 0 0;
 @media (max-width:790px){
     .text2 {
 padding: -10px;
-    
   margin: 0 40px 0 0;
-    
-    }    
+    }
 }
 
 .textPopular {
@@ -499,7 +485,7 @@ color: #F2785C;
         font-size: 14px;
         margin: -77px 0 0 -230px;
         width: 800px
-    }    
+    }
 }
 
 @media (max-width:790px){
@@ -544,11 +530,16 @@ padding: 0 60px 0 0;
 }
 }
 
+
+.mobile-wrapper{
+visibility: hidden;
+}
+
 @media (max-width:790px){
     .mobile-wrapper{
-       max-width: 360px;
-       max-height: 210px;
-     margin: 0 0 0 -1485px ;     
+    max-width: 360px;
+     max-height: 210px;
+     margin: 0 0 0 -1485px ;
     }
     }
 
@@ -563,9 +554,7 @@ height: 20px;
 
 @media (max-width:790px){
     .dotsWrapper{
-           
         margin: 25px -8px 0 0 ;
-        
     }
     }
 
@@ -581,7 +570,7 @@ background-color: #F2785C;
 @media (max-width:790px){
     .dot{
         width: 8px;
-        height: 8px;    
+        height: 8px;
         margin: -125px 6px 0 0;
     }
     }
@@ -665,19 +654,10 @@ margin: 87px 0 45px 0 ;
         margin: 20px 3px 15px 0 ;
         }
     }
-   
-
-
-
-
-        
-
 
 .Block3Generall{
 margin: 20px 5px 12px 0px;
 }
-
-
 
 
 .block3LeftContainer {
@@ -692,12 +672,12 @@ justify-content: space-between
 
 .block3LittleImage {
 margin: -1500px 0 400px 0;
-} 
+}
 
 
 @media (max-width:790px){
     .block3Image{
-      height: 133px;  
+      height: 133px;
       width: 150px;
     }
 }
@@ -779,7 +759,7 @@ padding: 18px 0 0 0;
 .icon{
 display: flex;
 align-items: flex-end;
-margin: -55px 0 0 1263px;
+margin: 75px 0 0 1263px;
 }
 
 .icon1{
@@ -815,7 +795,7 @@ visibility: visible;
 max-width: 560px;
 max-height: 612px;
 text-align: center;
-margin: 0 auto; 
+margin: 0 auto;
 }
 
 .popupContent{
@@ -830,7 +810,7 @@ font-family: 'Aleo';
 font-style: normal;
 font-weight: 700;
 font-size: 32px;
-color: #0D606F; 
+color: #0D606F;
 }
 
 .ButtonFB, .ButtonGoogle{
@@ -933,11 +913,11 @@ margin: -5px 0 26px 0;
 text-decoration-line: underline;
 color: #0D606F;
 }
-.PopForgotText{ 
+.PopForgotText{
 font-family: 'Aleo';
 font-style: normal;
 font-weight: 700;
-font-size: 15px; 
+font-size: 15px;
 color: #0D606F;
 text-shadow: 0px 2px 3px rgba(255, 255, 255, 0.16);
 margin: 18px 0 0 0 ;
@@ -950,7 +930,7 @@ font-weight: 700;
 font-size: 15px;
 line-height: 18px;
 color: rgba(13, 96, 111, 0.5);
-text-shadow: 0px 2px 3px rgba(255, 255, 255, 0.16); 
+text-shadow: 0px 2px 3px rgba(255, 255, 255, 0.16);
 margin: 20px 0 0 0;
 }
 
@@ -986,7 +966,7 @@ left: 9%;
 
 .popupReg:target {
 opacity: 1;
-visibility: visible; 
+visibility: visible;
 }
 
 .popupBodyReg{
@@ -1081,7 +1061,7 @@ font-weight: 700;
 font-size: 15px;
 line-height: 18px;
 color: rgba(13, 96, 111, 0.5);
-text-shadow: 0px 2px 3px rgba(255, 255, 255, 0.16); 
+text-shadow: 0px 2px 3px rgba(255, 255, 255, 0.16);
 margin: 20px 0 0 0;
 }
 
